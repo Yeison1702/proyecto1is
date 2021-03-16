@@ -1,0 +1,28 @@
+#tituloprincipal{
+    font-weight: bold;
+    color: gold;
+}
+
+#subtitulo{
+    font-weight: bold;
+    color: gold;
+}
+
+#parrafo{
+    font-style: italic, arial;
+    color: slategrey;
+
+    
+}
+
+#tambien{
+    font-weight: bold;
+    color: gold;
+}
+#contacto{
+    color:black;
+}
+footer{
+
+    background-color: gray;
+}
